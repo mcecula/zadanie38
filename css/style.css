@@ -1,0 +1,24 @@
+h1 {
+    background-color: blue;
+    color: red;
+    font-size: 100px;
+}
+
+div {
+    background-color: black;
+}
+
+p {
+    margin-left: 200px;
+    margin-top: 10px;
+    color: aliceblue;
+}
+
+#dodaj,
+#usun {
+    width: 100px;
+    height: 100px;
+    margin-left: 200px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
